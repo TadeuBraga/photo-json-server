@@ -1,228 +1,501 @@
 {
-"pictures": [
-   {
-      "image":"http://distilleryimage11.instagram.com/231895caaf2211e19dc71231380fe523_6.jpg",
-      "caption":"another crappy day at work...",
-      "link":"http://instagr.am/p/Lfz0O-Io5_/",
-      "full_name":"gino beltran",
-      "lat":"33.540744",
-      "lng":"-117.782432"
-   },
-   {
-      "image":"http://distilleryimage4.instagram.com/3c82fe5caf2111e19dc71231380fe523_6.jpg",
-      "caption":"No more June gloom",
-      "link":"http://instagr.am/p/LfzFAppLO8/",
-      "full_name":"Sachi Cunningham",
-      "lat":"33.552143096",
-      "lng":"-117.776512145"
-   },
-   {
-      "image":"http://distilleryimage4.instagram.com/2d2bb0c0af2111e1aebc1231381b647a_6.jpg",
-      "caption":"Pretty day",
-      "link":"http://instagr.am/p/LfzBxBtsx0/",
-      "full_name":"marleerochelle",
-      "lat":"33.510166168",
-      "lng":"-117.75150299"
-   },
-   {
-      "image":"http://distilleryimage11.instagram.com/d6e2ecdaaf1e11e1bf341231380f8a12_6.jpg",
-      "caption":"Finally some sun in Cali",
-      "link":"http://instagr.am/p/LfxHPaD1g_/",
-      "full_name":"ooflipmikeoo",
-      "lat":"33.514331817",
-      "lng":"-117.757499694"
-   },
-   {
-      "image":"http://distilleryimage5.instagram.com/cbf612c0af1e11e19e4a12313813ffc0_6.jpg",
-      "caption":"Lucky charms with strawberries \u2764",
-      "link":"http://instagr.am/p/LfxFAMKIg5/",
-      "full_name":"Emily :)",
-      "lat":"33.520999908",
-      "lng":"-117.76132965"
-   },
-   {
-      "image":"http://distilleryimage4.instagram.com/b7a6aaf0af1e11e18bb812313804a181_6.jpg",
-      "caption":"Learn something new everyday! Wtf fruit is this",
-      "link":"http://instagr.am/p/LfxA2Aj1g8/",
-      "full_name":"ooflipmikeoo",
-      "lat":"33.542999267",
-      "lng":"-117.782165527"
-   },
-   {
-      "image":"http://distilleryimage9.instagram.com/ae9877a4af1e11e181bd12313817987b_6.jpg",
-      "caption":"What's left",
-      "link":"http://instagr.am/p/Lfw-0boke1/",
-      "full_name":"nbatstussy",
-      "lat":"33.532417297",
-      "lng":"-117.773918151"
-   },
-   {
-      "image":"http://distilleryimage6.instagram.com/885300b4af1e11e1a92a1231381b6f02_6.jpg",
-      "caption":"Last day at this amazing place",
-      "link":"http://instagr.am/p/Lfw3A3D1g2/",
-      "full_name":"ooflipmikeoo",
-      "lat":"33.514348792",
-      "lng":"-117.757687569"
-   },
-   {
-      "image":"http://distilleryimage9.instagram.com/15e13b68af1e11e180d51231380fcd7e_6.jpg",
-      "caption":"I wish. \ud83c\udf34",
-      "link":"http://instagr.am/p/LfwftQxQuB/",
-      "full_name":"kikifast",
-      "lat":"33.528130634",
-      "lng":"-117.770369913"
-   },
-   {
-      "image":"http://distilleryimage3.instagram.com/9d3905c0af1c11e1aebc1231381b647a_6.jpg",
-      "caption":"Dolphins while drinking my coffee. \ud83d\udc2c\u2615",
-      "link":"http://instagr.am/p/LfvSkiiSUb/",
-      "full_name":"Kaylynn Lee",
-      "lat":"33.528202056",
-      "lng":"-117.771316528"
-   },
-   {
-      "image":"http://distilleryimage4.instagram.com/0f780120af1511e192e91231381b3d7a_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/LfpGiJPBUo/",
-      "full_name":"zack",
-      "lat":"33.550384521",
-      "lng":"-117.800720214"
-   },
-   {
-      "image":"http://distilleryimage0.instagram.com/014f4c2aaf1511e1ab011231381052c0_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/LfpDqFQz9k/",
-      "full_name":"Eduard",
-      "lat":"33.531554",
-      "lng":"-117.7654334"
-   },
-   {
-      "image":"http://distilleryimage3.instagram.com/c2b42a3aaf1411e1ab011231381052c0_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/Lfo21owz9f/",
-      "full_name":"Eduard",
-      "lat":"33.531554",
-      "lng":"-117.7654334"
-   },
-   {
-      "image":"http://distilleryimage1.instagram.com/3a4f9c22af0211e180d51231380fcd7e_6.jpg",
-      "caption":"Sometimes I'm really pretty.",
-      "link":"http://instagr.am/p/LfZrKaNs45/",
-      "full_name":"marleerochelle",
-      "lat":"33.552589416",
-      "lng":"-117.75792694"
-   },
-   {
-      "image":"http://distilleryimage11.instagram.com/994a6b4caeff11e1b2fe1231380205bf_6.jpg",
-      "caption":"4 am. Can't sleep. Boyfriends sweatshirt. Criminal minds.",
-      "link":"http://instagr.am/p/LfXhVgts4b/",
-      "full_name":"marleerochelle",
-      "lat":"33.552589416",
-      "lng":"-117.758094787"
-   },
-   {
-      "image":"http://distilleryimage8.instagram.com/3503fc5caeff11e180c9123138016265_6.jpg",
-      "caption":"It's like school but not lol",
-      "link":"http://instagr.am/p/LfXMzNDW1s/",
-      "full_name":"Daniel",
-      "lat":"33.562470055",
-      "lng":"-117.765640287"
-   },
-   {
-      "image":"http://distilleryimage10.instagram.com/b10dfcd6aefe11e1a92a1231381b6f02_6.jpg",
-      "caption":"Cant sleep. Criminal minds. Boyfriend sweatshirt. 4 am.",
-      "link":"http://instagr.am/p/LfWxonNs4O/",
-      "full_name":"marleerochelle",
-      "lat":"33.552677154",
-      "lng":"-117.757850646"
-   },
-   {
-      "image":"http://distilleryimage10.instagram.com/7857c872aefe11e1be6a12313820455d_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/LfWmJIts4K/",
-      "full_name":"marleerochelle",
-      "lat":"33.552589416",
-      "lng":"-117.758094787"
-   },
-   {
-      "image":"http://distilleryimage8.instagram.com/cfb834f4aefd11e1b2fe1231380205bf_6.jpg",
-      "caption":"Boyfriend sweatshirt. 4 am. Can't sleep.",
-      "link":"http://instagr.am/p/LfWDoCNs3w/",
-      "full_name":"marleerochelle",
-      "lat":"33.552589416",
-      "lng":"-117.758094787"
-   },
-   {
-      "image":"http://distilleryimage3.instagram.com/da85a874aefa11e1abd612313810100a_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/LfTojUzLQb/",
-      "full_name":"krissy",
-      "lat":"33.540832519",
-      "lng":"-117.782836914"
-   },
-   {
-      "image":"http://distilleryimage2.instagram.com/ff0aa11caee711e19dc71231380fe523_6.jpg",
-      "caption":"Mysterious birthday girl... Happy 22nd, again!",
-      "link":"http://instagr.am/p/LfEL-noYz-/",
-      "full_name":"jonfotop",
-      "lat":"33.536579087",
-      "lng":"-117.778443207"
-   },
-   {
-      "image":"http://distilleryimage11.instagram.com/bf7055d4aee111e18cf91231380fd29b_6.jpg",
-      "caption":"Work hard, play harder. #beach #starbucks #oceanview #swimsuit #tan #hike #junegloom #summer #lagunabeach",
-      "link":"http://instagr.am/p/Le_ER8Mpob/",
-      "full_name":"Alex Carter",
-      "lat":"33.540783",
-      "lng":"-117.781886"
-   },
-   {
-      "image":"http://distilleryimage2.instagram.com/c6a64a68aedf11e1989612313815112c_6.jpg",
-      "caption":"i love my friends.<3 #CCClife #couldntaskforbetter #noonewilleverunderstandus #loveyoulesbians #bffsforlife @aubreyfowler @annieegee @amyyjack @jordynliburdi",
-      "link":"http://instagr.am/p/Le9c51wDlW/",
-      "full_name":"Megan Lockwood",
-      "lat":"33.513832092",
-      "lng":"-117.75666809"
-   },
-   {
-      "image":"http://distilleryimage0.instagram.com/e7108530aede11e1be6a12313820455d_6.jpg",
-      "caption":"The Wife",
-      "link":"http://instagr.am/p/Le8vGRBItk/",
-      "full_name":"Mikee Wilson",
-      "lat":"33.53084",
-      "lng":"-117.7583"
-   },
-   {
-      "image":"http://distilleryimage8.instagram.com/86e8f670aedd11e1989612313815112c_6.jpg",
-      "caption":"Christmas sweaters passed down from mom and dad... How did we get so lucky lol",
-      "link":"http://instagr.am/p/Le7m_hCtJk/",
-      "full_name":"sadeyspriggs",
-      "lat":"33.54184",
-      "lng":"-117.7818"
-   },
-   {
-      "image":"http://distilleryimage11.instagram.com/b15b8e0aaedc11e1abd612313810100a_6.jpg",
-      "caption":"Incredible. #tacoloco #food #lagunabeach #california #orangecounty #cali #oc #bomb #amazing #perfect #incredible #best #favorite #tacos #palmtrees #moon #sky #night #beach #life @the_jobin",
-      "link":"http://instagr.am/p/Le67Qdl9wf/",
-      "full_name":"Scott \u274c Sparks YR",
-      "lat":"33.538903829",
-      "lng":"-117.780481515"
-   },
-   {
-      "image":"http://distilleryimage9.instagram.com/bf672816aedb11e1abd612313810100a_6.jpg",
-      "caption":"",
-      "link":"http://instagr.am/p/Le6JtLHUJN/",
-      "full_name":"bpool752",
-      "lat":"33.526500701",
-      "lng":"-117.769996643"
-   },
-   {
-      "image":"http://distilleryimage8.instagram.com/336a2ca0aedb11e18bb812313804a181_6.jpg",
-      "caption":"Lulu the #cat #fury",
-      "link":"http://instagr.am/p/Le5tCZGf7w/",
-      "full_name":"Mike Marinaccio",
-      "lat":"33.536391431",
-      "lng":"-117.774189026"
-   }
-]
+  "folderName": "boston", 
+  "galleryName": "Boston and Cambridge (2002-2006)", 
+  "images": [
+    {
+      "description": "", 
+      "filename": "IMG_2914.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Sailboats on the Charles River", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "with Cambridge and the MIT Green Building (designed by I.M. Pei) in the background", 
+      "filename": "IMG_2938.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "People lying on the esplanade", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "A beautiful day along the Charles River Esplanade.  The MIT Great Dome can be seen in the background, along with a pretty construction crane.", 
+      "filename": "river.jpg", 
+      "height": 600, 
+      "month": 9, 
+      "title": "Charles River and MIT Great Dome", 
+      "width": 450, 
+      "year": 2002
+    }, 
+    {
+      "description": "This picture was taken from the Cambridge side of the Charles River.  You can see the city of Boston in the background.", 
+      "filename": "boats.jpg", 
+      "height": 525, 
+      "month": 4, 
+      "title": "Naked Sailboats in the Sunset", 
+      "width": 700, 
+      "year": 2003
+    }, 
+    {
+      "description": "MIT campus and sailboats in the background.", 
+      "filename": "IMG_2941.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Man sitting on bench - Charles River Esplanade", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Look at how green it is in the springtime!", 
+      "filename": "IMG_2939.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Benches on the Charles River Esplanade", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Beyond the Charles River, there is Cambridge on the left, Boston on the right, and the Longfellow Bridge connecting the two in the center.", 
+      "filename": "IMG_2962.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Biker on Esplanade Platform", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "John Hancock Building on the left and Prudential Tower on the right", 
+      "filename": "IMG_2965.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Esplanade with Boston in the Background", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "The Boston Marathon is a great excuse for people to get drunk during the daytime ('cause nobody has to go to work on Patriots' Day weekend), so the Captain does his part to help.", 
+      "filename": "IMG_2761.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Captain Morgan at the Boston Marathon", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "Lots of these folks are probably drunk ...", 
+      "filename": "IMG_2764.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "People on Boylston Watching Boston Marathon", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Check out the Matrix-looking guy next to the TV camera stand.  Of course, my favorite building, the John Hancock Tower in the background, as well as flags of many countries lining the street near the finish line.", 
+      "filename": "IMG_2772.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Near the Boston Marathon Finish Line", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "About 1 mile left until the finish.  People running near the Citgo sign in Boston.", 
+      "filename": "IMG_2781.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "1 Mile from Boston Marathon Finish Line", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "About 1 mile left until the finish.  People running near the Citgo sign in Boston.  Some are so pooped by this time that they are walking.", 
+      "filename": "IMG_2783.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Boston Marathon Runners", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "About 1 mile left until the finish.  John Hancock and Prudential towers in the distant background.", 
+      "filename": "IMG_2785.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Boston Marathon Runners (again)", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "I snapped this candid shot of a boy playing with pigeons when I was walking through Boston Common.", 
+      "filename": "pigeon.jpg", 
+      "height": 525, 
+      "month": 8, 
+      "title": "Motion Commotion", 
+      "width": 700, 
+      "year": 2002
+    }, 
+    {
+      "description": "A beautiful day in the Boston Common park.", 
+      "filename": "IMG_2994.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "A lazy weekend day.", 
+      "filename": "IMG_2999.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Lying Around in Boston Common", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "He could be a hobo, but maybe not.  He's got dirty socks, though.", 
+      "filename": "IMG_2992.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Jesus-like guy in Boston common", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "A little girl lined up with a mother duck and her ducklings in Boston Common.", 
+      "filename": "IMG_3095.jpg", 
+      "height": 600, 
+      "month": 3, 
+      "title": "Duck, Duck, Duck ...", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "This is the funniest picture ever!  An entire wedding party is being photographed in the Boston Public Garden right in front of this sign!", 
+      "filename": "IMG_3097.JPG", 
+      "height": 600, 
+      "month": 5, 
+      "title": "Please Stay off the Grass!", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "in the Boston Public Garden", 
+      "filename": "IMG_3012.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Flowers and George Washington Monument", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "in the Boston Public Garden", 
+      "filename": "IMG_3014.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Flowers and George Washington Monument (vertical)", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "Some historic buildings in the Beacon Hill neighborhood (really rich!)", 
+      "filename": "s70_IMG_1515.JPG", 
+      "height": 800, 
+      "month": 9, 
+      "title": "Quaint Boston neighborhood", 
+      "width": 600, 
+      "year": 2005
+    }, 
+    {
+      "description": "Typical homes in the Beacon Hill neighborhood (really rich!)", 
+      "filename": "IMG_3078.JPG", 
+      "height": 600, 
+      "month": 5, 
+      "title": "Beacon Hill Real Estate", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "It's so amazing how the streets in the Beacon Hill neighborhood of Boston are so darn quiet, when there is a bustling city just a few blocks nearby.", 
+      "filename": "IMG_3082.JPG", 
+      "height": 600, 
+      "month": 5, 
+      "title": "Beacon Hill Street", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Selling trinkets and stuff from his van parked in Chinatown.", 
+      "filename": "IMG_3309.JPG", 
+      "height": 600, 
+      "month": 5, 
+      "title": "Chinatown Van Vendor", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Home of fancy restaurants, specialty stores, and rich people.", 
+      "filename": "img_3898.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Ultra-Posh Newbury Street", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Some dude is taking a nap with his mouth wide open on the steps of the Boston Public Library.", 
+      "filename": "img_3909.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Mouth Agape at the Boston Public Library", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Kids skateboarding near the historic Trinity Church in Copley Square", 
+      "filename": "IMG_3038.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Skateboarders at Trinity Church", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "The historic Trinity Church and the modern John Hancock building in Copley Square", 
+      "filename": "IMG_2694.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Old and New Juxtaposition", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "Self-explanatory", 
+      "filename": "IMG_2700.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "John Hancock Towering Over Copley Square", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "The names of several famous scientists are engraved in stone at the entrance of the Boston Public Library", 
+      "filename": "img_3913.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Science Pimps at Boston Public Library", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "Some menacing-looking statue in Copley Square right next to the Trinity Church", 
+      "filename": "img_3932.jpg", 
+      "height": 800, 
+      "month": 7, 
+      "title": "Huge Preacher Duo", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "$$$", 
+      "filename": "img_3957.jpg", 
+      "height": 800, 
+      "month": 7, 
+      "title": "Ferrari on Boylston", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "This is crazy!  There's a freaking restaurant in front of the Emporio Armani store on Newbury Street", 
+      "filename": "img_3958.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Shopping and Dining at Armani", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "I think these are gnomes.  Just hangin' out on the steps in front of a shop on Newbury Street.", 
+      "filename": "img_3962.jpg", 
+      "height": 800, 
+      "month": 7, 
+      "title": "Gnomes! Gnomes!", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "Hanging out on the Charles right near the Harvard (Mass. Ave.) bridge.  The Esplanade and Longfellow Bridge can be seen in the distant background.", 
+      "filename": "img_3963.jpg", 
+      "height": 800, 
+      "month": 7, 
+      "title": "Boat on the Charles River", 
+      "width": 600, 
+      "year": 2006
+    }, 
+    {
+      "description": "A view of Cambridge and part of the MIT campus taken from the Boston side of the Charles River at sunset. <i>(Cambridge, MA)</i>", 
+      "filename": "IMG_0377.jpg", 
+      "height": 600, 
+      "month": 12, 
+      "title": "Sunset over Cambridge", 
+      "width": 800, 
+      "year": 2003
+    }, 
+    {
+      "description": "A snowy winter sunset over Boston taken from my Cambridge apartment. <i>(Boston, MA)</i>", 
+      "filename": "s70_IMG_1728.JPG", 
+      "height": 600, 
+      "month": 12, 
+      "title": "Snowy Sunset over Boston", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "This was taken on Memorial Drive right along the Charles River.  I really like the amazing sunrise colors and the entire city in silhouette.  The white streak on the left side was made by the headlights of an incoming car. <i>(Cambridge, MA)</i>", 
+      "filename": "sunrise.jpg", 
+      "height": 525, 
+      "month": 12, 
+      "title": "Sunrise over Boston", 
+      "width": 700, 
+      "year": 2002
+    }, 
+    {
+      "description": "The John Hancock building is on the left and the Prudential building is on the right.  Notice the full moon next to the Prudential. <i>(Boston, MA)</i>", 
+      "filename": "IMG_0035.jpg", 
+      "height": 600, 
+      "month": 9, 
+      "title": "Full moon sunset", 
+      "width": 800, 
+      "year": 2003
+    }, 
+    {
+      "description": "The John Hancock building has a vertical groove that reflects the sunset in a golden red glow.  Notice the really red area at the base of the building (on the left side). <i>(Boston, MA)</i>", 
+      "filename": "IMG_3256.jpg", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Glowing beam of light", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "The beautiful Back Bay region of Boston at night with the Charles River in the middle and Memorial Drive in Cambridge in the foreground. <i>(Boston, MA)</i>", 
+      "filename": "s70_IMG_0131.jpg", 
+      "height": 600, 
+      "month": 6, 
+      "title": "Nighttime on the Charles River", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball team as they competed for the ALCS title.  They ended up losing to the Yankees that year, but won in the following year in an amazing series. <i>(Boston, MA)</i>", 
+      "filename": "IMG_0166.jpg", 
+      "height": 800, 
+      "month": 10, 
+      "title": "Cheering for the Red Sox", 
+      "width": 600, 
+      "year": 2003
+    }, 
+    {
+      "description": "This picture was taken in the courtyard of my apartment building after a big snow storm. <i>(Cambridge, MA)</i>", 
+      "filename": "s70_IMG_1713.JPG", 
+      "height": 800, 
+      "month": 12, 
+      "title": "Snowy courtyard", 
+      "width": 600, 
+      "year": 2005
+    }, 
+    {
+      "description": "The Boston Celtics play the Indiana Pacers in the NBA playoffs in the Fleet Center. <i>(Boston, MA)</i>", 
+      "filename": "IMG_0957.jpg", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Celtics game at the Fleet Center", 
+      "width": 800, 
+      "year": 2004
+    }, 
+    {
+      "description": "The MacGregor House kids play some volleyball on Thompson Island (a few minutes from Boston by boat) during our annual dorm clambake. <i>(Thompson Island - Boston, MA)</i>", 
+      "filename": "IMG_1974.jpg", 
+      "height": 600, 
+      "month": 9, 
+      "title": "Island Volleyball Action", 
+      "width": 800, 
+      "year": 2004
+    }, 
+    {
+      "description": "A subway performer plays the guitar and sings in the Government Center station <i>(Boston, MA)</i>", 
+      "filename": "s70_IMG_1268.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Subway Musician", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "An anti-Bush protester plays music and hands out flyers to protest the administration and the war in Iraq. <i>(Harvard Square - Cambridge, MA)</i>", 
+      "filename": "s70_IMG_0105.jpg", 
+      "height": 800, 
+      "month": 6, 
+      "title": "Anti-Bush protester", 
+      "width": 600, 
+      "year": 2005
+    }, 
+    {
+      "description": "A vocal Christian warns the world of the consequences of not being Christian.  A bald man with an impressive mustache chats with that guy. <i>(Harvard Square - Cambridge, MA)</i>", 
+      "filename": "s70_IMG_1305.jpg", 
+      "height": 800, 
+      "month": 7, 
+      "title": "Hardcore Christian in Harvard Square", 
+      "width": 600, 
+      "year": 2005
+    }, 
+    {
+      "description": "A street performer gets audience members to tie him up and then escapes from the ropes <i>(Harvard Square - Cambridge, MA)</i>", 
+      "filename": "s70_IMG_1309.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Escape Artist in Harvard Square", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "A really old cemetary with tombstones dating from the 1600's. <i>(Harvard Square - Cambridge, MA)</i>", 
+      "filename": "s70_IMG_1323.jpg", 
+      "height": 600, 
+      "month": 7, 
+      "title": "Really old cemetary", 
+      "width": 800, 
+      "year": 2005
+    }, 
+    {
+      "description": "We went near Boston's Logan airport one day because my friends wanted to photograph airplanes landing.  While they were doing that, I photographed them photographing airplanes landing.  Yep, I'm weird. <i>(Boston, MA)</i>", 
+      "filename": "plane.jpg", 
+      "height": 600, 
+      "month": 8, 
+      "title": "Man and Plane", 
+      "width": 450, 
+      "year": 2002
+    }, 
+    {
+      "description": "in downtown Boston.  Live music, beer (Guiness!), and middle-aged men.  Mmmm", 
+      "filename": "IMG_2874.JPG", 
+      "height": 600, 
+      "month": 4, 
+      "title": "Music at the Black Rose Pub", 
+      "width": 800, 
+      "year": 2006
+    }, 
+    {
+      "description": "The beers that Kevin and I downed are chillin' on the table having a good time listening to music.", 
+      "filename": "IMG_2882.JPG", 
+      "height": 800, 
+      "month": 4, 
+      "title": "Beers Enjoying Live Pub Music", 
+      "width": 600, 
+      "year": 2006
+    }
+  ]
 }
